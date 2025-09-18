@@ -18,6 +18,7 @@ This project analyzes economic indicators from the World Bank’s World Developm
 Install dependencies with:  
 ```bash
 pip install pandas matplotlib seaborn scikit-learn openpyxl
+```
 
 ## 📊 Summary of the Analysis
 
