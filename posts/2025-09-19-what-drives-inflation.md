@@ -1,11 +1,4 @@
 
----
-layout: post
-title: "🔍 What Drives Inflation?"
-date: 2025-09-19
-categories: blog
----
-
 # 🔍 What Drives Inflation?  
 ### Insights from 50 Years of Global Economic Data
 
