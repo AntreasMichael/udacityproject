@@ -62,7 +62,7 @@ A hypothetical input was tested with the following values:
 | Tax revenue (% of GDP)                                    | 22                 |
 | Unemployment (% of total labor force)                     | 5                  |
 
-📌 **Predicted Inflation**: **_3.19 %_** ← *(Replace this with your actual prediction)*
+📌 **Predicted Inflation**: **_3.19 %_** ←
 
 ---
 
